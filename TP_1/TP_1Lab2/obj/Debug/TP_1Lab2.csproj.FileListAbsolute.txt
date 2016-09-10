@@ -1,0 +1,33 @@
+c:\TP_1Lab2\TP_1Lab2\bin\Debug\TP_1Lab2.exe.config
+c:\TP_1Lab2\TP_1Lab2\bin\Debug\TP_1Lab2.exe
+c:\TP_1Lab2\TP_1Lab2\bin\Debug\TP_1Lab2.pdb
+c:\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.csprojResolveAssemblyReference.cache
+c:\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.Form1.resources
+c:\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.Properties.Resources.resources
+c:\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.csproj.GenerateResource.Cache
+c:\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.exe
+c:\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.pdb
+D:\TP_1Lab2\TP_1Lab2\bin\Debug\TP_1Lab2.exe.config
+D:\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.exe
+D:\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.pdb
+D:\TP_1Lab2\TP_1Lab2\bin\Debug\TP_1Lab2.exe
+D:\TP_1Lab2\TP_1Lab2\bin\Debug\TP_1Lab2.pdb
+D:\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.csprojResolveAssemblyReference.cache
+D:\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.Form1.resources
+D:\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.Properties.Resources.resources
+D:\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.csproj.GenerateResource.Cache
+C:\clase 7\TP_1Lab2\TP_1Lab2\bin\Debug\TP_1Lab2.exe.config
+C:\clase 7\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.exe
+C:\clase 7\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.pdb
+C:\clase 7\TP_1Lab2\TP_1Lab2\bin\Debug\TP_1Lab2.exe
+C:\clase 7\TP_1Lab2\TP_1Lab2\bin\Debug\TP_1Lab2.pdb
+C:\clase 7\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.csprojResolveAssemblyReference.cache
+C:\clase 7\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.Form1.resources
+C:\clase 7\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.Properties.Resources.resources
+C:\clase 7\TP_1Lab2\TP_1Lab2\obj\Debug\TP_1Lab2.csproj.GenerateResource.Cache
+C:\Users\Mauro\Desktop\Nueva carpeta\TP_1Lab2\bin\Debug\TP_1Lab2.exe.config
+C:\Users\Mauro\Desktop\Nueva carpeta\TP_1Lab2\obj\Debug\TP_1Lab2.exe
+C:\Users\Mauro\Desktop\Nueva carpeta\TP_1Lab2\obj\Debug\TP_1Lab2.pdb
+C:\Users\Mauro\Desktop\prueba-master\TP_1Lab2\bin\Debug\TP_1Lab2.exe.config
+C:\Users\Mauro\Desktop\prueba-master\TP_1Lab2\obj\Debug\TP_1Lab2.exe
+C:\Users\Mauro\Desktop\prueba-master\TP_1Lab2\obj\Debug\TP_1Lab2.pdb
