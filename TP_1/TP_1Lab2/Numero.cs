@@ -8,21 +8,21 @@ namespace TP_1Lab2
 {
     class Numero
     {
-        private double num;
+        private double _num;
 
         public Numero()
         {
-            this.num = 0;
+            this._num = 0;
         }
 
         public Numero(double numero)
         {
-            this.num = numero;
+            this._num = numero;
         }
 
         private void setNumero(string numero)
         {
-            this.num = validarNumero(numero);
+            this._num = validarNumero(numero);
         }
 
         public Numero(string numero)
@@ -32,7 +32,7 @@ namespace TP_1Lab2
 
         public double getNumero()
         {
-            return this.num;
+            return this._num;
         }
 
         private double validarNumero(string numero)
